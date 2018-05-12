@@ -22,12 +22,12 @@ SO, lets start
       <h3>Step 1 : Identify that you are in Xerces Hell</h3>
           <ul>
               <li>
-                The indexing jobs are dying mysteriously with unhelpful error codes showing in the indexer-logs like so
-                ##                   ![Alt text](screenshots/indexerLog.png?raw=true "indexer-log")
+                <p>The indexing jobs are dying mysteriously with unhelpful error codes showing in the indexer-logs like so</p>
+                <p>##                   ![Alt text](screenshots/indexerLog.png?raw=true "indexer-log")</p>
               </li>
               <li>
-                Open the corresponding Yarn log, and there should be a Xerces related stack trace somewhere in the log like so
-                ##                   ![Alt text](screenshots/singatureConflict.png?raw=true "signature-conflict")
+                <p>Open the corresponding Yarn log, and there should be a Xerces related stack trace somewhere in the log like so</p>
+                <p>##                   ![Alt text](screenshots/singatureConflict.png?raw=true "signature-conflict")</p>
               </li>
               <li>
                 Welcome to xerces hell, it's a wonderful place
