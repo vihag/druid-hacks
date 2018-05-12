@@ -1,4 +1,4 @@
-#Resolving Snappy conflicts in Druid Offline Indexing
+###  Resolving Snappy conflicts in Druid Offline Indexing
 
 <p>
 <a href="http://druid.io/">Druid</a> is a high-performance, column-oriented, distributed data store.
