@@ -1,4 +1,4 @@
-#Xerces Hell with Druid on Cloudera 5.10.2(and many more)
+### Xerces Hell with Druid on Cloudera 5.10.2(and many more)
 
 <p>
 <a href="http://druid.io/">Druid</a> is a high-performance, column-oriented, distributed data store.
