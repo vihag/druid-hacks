@@ -23,11 +23,11 @@ SO, lets start
           <ul>
               <li>
                 The indexing jobs are dying mysteriously with unhelpful error codes showing in the indexer-logs like so
-                ![alt text](screenshots/indexerLog.png "Druid indexer log")
+                ##                   ![Alt text](screenshots/indexerLog.png?raw=true "indexer-log")
               </li>
               <li>
                 Open the corresponding Yarn log, and there should be a Xerces related stack trace somewhere in the log like so
-                ![alt text](screenshots/singatureConflict.png "Yarn log for druid indexing job")
+                ##                   ![Alt text](screenshots/singatureConflict.png?raw=true "signature-conflict")
               </li>
               <li>
                 Welcome to xerces hell, it's a wonderful place
