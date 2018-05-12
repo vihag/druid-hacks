@@ -23,11 +23,11 @@ So, lets start
           <ul>
               <li>
                 <p>The indexing jobs are dying mysteriously with unhelpful error codes showing in the indexer-logs as seen in
-                <a href="screenshots/indexerLog.png">the attached indexer log</a> </p>
+                the attached  <a href="screenshots/indexerLog.png">indexer log</a> </p>
               </li>
               <li>
                 <p>Open the corresponding Yarn log, and there should be a Xerces related stack trace as seen in
-                <a href="screenshots/signatureConflict.png">the attached yarn log</a> </p>
+                the attached <a href="screenshots/signatureConflict.png">yarn log</a> </p>
               </li>
               <li>
                 Welcome to xerces hell, it's a wonderful place ;)
