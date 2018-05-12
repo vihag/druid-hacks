@@ -1,4 +1,4 @@
-#Running Druid Optimally on the cloud
+### Running Druid Optimally on the cloud
 
 <p>
 
