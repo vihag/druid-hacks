@@ -27,7 +27,7 @@ So, lets start
               </li>
               <li>
                 <p>Open the corresponding Yarn log, and there should be a Xerces related stack trace as seen in
-                <a href="screenshots/singatureConflict.png">the attached yarn log</a> </p>
+                <a href="screenshots/signatureConflict.png">the attached yarn log</a> </p>
               </li>
               <li>
                 Welcome to xerces hell, it's a wonderful place ;)
