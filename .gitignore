@@ -1,0 +1,59 @@
+*.class
+
+#Ignore interlliJ files
+.idea/
+*.iml
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target/
+
+#Idea
+*.iml
+.idea
+
+~.*
+
+#Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Mac-specific
+.DS_Store
+
+.settings/
+/target/
+
+.springBeans
+
+locationfootfall/.factorypath
+aggregatedfootfall/.factorypath
+v2-locationfootfall/.factorypath
+
+locationfootfall/ZK_TEST_HOME/*
+
+# ignore local testing side products
+locationfootfall/audit
+/localtesting/zkData/*
+/localtesting/solrData/*
+/localtesting/zookeeper.out
+/localtesting/paths.sh
+/localtesting/locationfootfall/log_*.txt
+spark-warehouse
+
+#Ignore Maven Shade Created POM
+dependency-reduced-pom.xml
