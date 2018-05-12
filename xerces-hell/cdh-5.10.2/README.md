@@ -93,7 +93,7 @@ So, lets start
    
    @mentions 
    
-   A shout out to @jaihind213 for helping with this resolution!
+   A shout out to <a href="https://github.com/jaihind213">@jaihind213</a> for helping with this resolution!
   </li>
 </ul>
 

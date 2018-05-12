@@ -1,4 +1,4 @@
-#Xerces Hell with Druid on Cloudera 5.10.2(and many more)
+#Resolving Snappy conflicts in Druid Offline Indexing
 
 <p>
 <a href="http://druid.io/">Druid</a> is a high-performance, column-oriented, distributed data store.
