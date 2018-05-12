@@ -77,7 +77,7 @@ So, lets start
           In the two conflicting libraries in Druid(druid-hdfs-storage/ & hadoop-dependencies/hadoop-client/<version>/);
           Replace xercesImpl-2.9.1.jar with xercesImpl-2.10.0.jar
           and
-          Replace xml-apis-1.3.04.jar with xml-apis-1.4.01.jar>
+          Replace xml-apis-1.3.04.jar with xml-apis-1.4.01.jar
           </p>
       </li>
       <li>
