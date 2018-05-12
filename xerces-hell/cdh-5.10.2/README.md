@@ -23,11 +23,11 @@ SO, lets start
           <ul>
               <li>
                 <p>The indexing jobs are dying mysteriously with unhelpful error codes showing in the indexer-logs like so</p>
-                ![Alt text](xerces-hell/screenshots/indexerLog.png?raw=true "indexer-log")
+                ![Alt text](xerces-hell/cdh-5.10.2/screenshots/indexerLog.png?raw=true "indexer-log")
               </li>
               <li>
                 <p>Open the corresponding Yarn log, and there should be a Xerces related stack trace somewhere in the log like so</p>
-                ![Alt text](xerces-hell/screenshots/singatureConflict.png?raw=true "signature-conflict")
+                ![Alt text](xerces-hell/cdh-5.10.2/screenshots/singatureConflict.png?raw=true "signature-conflict")
               </li>
               <li>
                 Welcome to xerces hell, it's a wonderful place
